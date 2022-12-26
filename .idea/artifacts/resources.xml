@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="resources">
+    <output-path>$PROJECT_DIR$/out/artifacts/resources</output-path>
+    <root id="root">
+      <element id="directory" name="css" />
+    </root>
+  </artifact>
+</component>
