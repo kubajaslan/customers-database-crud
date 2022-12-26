@@ -8,10 +8,10 @@ public class DBtest {
 
 
     public static void main(String[] args) {
-        String user = "springstudent";
-        String pass = "springstudent";
+        String user = "b1099c657bf341";
+        String pass = "47fd372a";
 
-        String url = "jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false&serverTimezone=UTC";
+        String url = "jdbc:mysql://b1099c657bf341:47fd372a@eu-cdbr-west-03.cleardb.net/heroku_8c577137f27a35f?reconnect=true";
 
         try {
 
