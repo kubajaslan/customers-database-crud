@@ -1,2 +1,1 @@
-1.
-2.
+A simple application to save personal data.
