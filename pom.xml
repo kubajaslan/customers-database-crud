@@ -91,7 +91,7 @@
 
   <build>
 
-    <finalName>CustomerDatabaseAWS</finalName>
+    <finalName>CustomerDatabase</finalName>
 
     <plugins>
 
